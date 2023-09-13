@@ -1,0 +1,1 @@
+<:4|OPEN_ORDER|ETHUSD,buy,1,0,0,1,,H1 (1) ETHUSD T1,0,0:>

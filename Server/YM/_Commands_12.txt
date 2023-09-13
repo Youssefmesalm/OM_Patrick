@@ -1,0 +1,1 @@
+<:8|OPEN_ORDER|ETHUSD,sellstop,3,10,0,0,,H1 (PO) ETHUSD T2,0,0:>
